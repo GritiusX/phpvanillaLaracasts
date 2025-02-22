@@ -9,3 +9,6 @@ php -S localhost:8888 -t public/
 # To get php commands
 
 php -h
+
+
+-- all of this has been done in Laragon + phpMyAdmin with a SQL server
